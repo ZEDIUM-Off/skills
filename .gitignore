@@ -1,5 +1,4 @@
-*
-!.gitignore
-!README.md
-!plan-writer/
-!plan-writer/**
+# Local/editor noise
+.DS_Store
+*.log
+node_modules/
